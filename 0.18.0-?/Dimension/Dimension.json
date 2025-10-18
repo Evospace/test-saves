@@ -1,0 +1,478 @@
+{
+	"seed": "10",
+	"generator": "WorldGeneratorBiome",
+	"AutosavePeriod": 600,
+	"TotalGameTime": 378623.65625,
+	"Sources": [
+		{
+			"Key": [ -96, -156 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -292, 44 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -274, 141 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 294, 7 ],
+			"Value":
+			{
+				"Item": "CopperOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 207, 172 ],
+			"Value":
+			{
+				"Item": "CopperOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 136, -289 ],
+			"Value":
+			{
+				"Item": "CopperOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -136, -145 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 272, -81 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -172, -40 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 156, 112 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 44, 36 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -49, 71 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -66, -15 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -86, -260 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 156, -160 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -272, -191 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 167, 15 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -226, -250 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 169, 160 ],
+			"Value":
+			{
+				"Item": "MineralWaterStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ -229, 96 ],
+			"Value":
+			{
+				"Item": "MineralWaterStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 275, -285 ],
+			"Value":
+			{
+				"Item": "MineralWaterStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 162, -350 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 82, -185 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 51, -163 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 17, -127 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 61, -108 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 103, -115 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 102, -217 ],
+			"Value":
+			{
+				"Item": "MineralWaterStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 85, -144 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 119, -147 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 119, -183 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 70, -215 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 81, -83 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 114, -73 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 139, -101 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 101, -250 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 101, -283 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 38, -226 ],
+			"Value":
+			{
+				"Item": "RawOilStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 27, -194 ],
+			"Value":
+			{
+				"Item": "CopperOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 152, -195 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 165, -81 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 173, -115 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 189, -159 ],
+			"Value":
+			{
+				"Item": "IronOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 173, -223 ],
+			"Value":
+			{
+				"Item": "AluminiumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 139, -227 ],
+			"Value":
+			{
+				"Item": "UraniumOreStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 3, -157 ],
+			"Value":
+			{
+				"Item": "CoalStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		},
+		{
+			"Key": [ 68, -260 ],
+			"Value":
+			{
+				"Item": "MineralWaterStaticItem",
+				"Capacity": 100000,
+				"MaxCapacity": 100000,
+				"Radius": 32
+			}
+		}
+	]
+}

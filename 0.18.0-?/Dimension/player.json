@@ -1,0 +1,499 @@
+{
+	"Inventory":
+	{
+		"Items": [
+			{
+				"Name": "HardMetalMultitoolStaticItem",
+				"Count": 1
+			},
+			{
+				"Name": "CopperScrewdriverStaticItem",
+				"Count": 1
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			}
+		]
+	},
+	"ScienceInventory":
+	{
+		"Items": [
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			}
+		]
+	},
+	"Transform": [ 8807.625, -10729.8935546875, 587.1500244140625, 0, -0, 0, 1 ],
+	"CameraRotation": [ 0, -0, 0, 1 ],
+	"SpawnPoint": [ 8776.7412109375, -16444.609375, 587.14996337890625 ],
+	"ActiveResearch": "",
+	"ActiveResearchComplexity": 0,
+	"OldResearches": [],
+	"CreativeMode": false,
+	"CreativeAllowed": false,
+	"InvUpgrades": 0,
+	"CompletedResearches": [
+		"InitialScanStaticResearch",
+		"MineralsScanStaticResearch",
+		"SmeltingStaticResearch",
+		"MetalworkStaticResearch",
+		"HeatConversionStaticResearch",
+		"ElectricityStaticResearch",
+		"PowerGenerationStaticResearch",
+		"DistributedComputingStaticResearch",
+		"BasicMachinesStaticResearch",
+		"AutomatizationStaticResearch",
+		"AdditionalStorageStaticResearch",
+		"PlantsScanStaticResearch",
+		"DecorativeWoodStaticResearch",
+		"ScrewdriverStaticResearch",
+		"AutomaticMiningStaticResearch",
+		"HeatTransferringStaticResearch",
+		"AutomaticFarmStaticResearch",
+		"AtmosphericCondenserStaticResearch",
+		"DryingStaticResearch",
+		"FluidStorageStaticResearch",
+		"DecorativeStoneStaticResearch",
+		"DecorativeStone2StaticResearch",
+		"FurnaceStaticResearch",
+		"LampStaticResearch",
+		"PumpStaticResearch",
+		"SteampackStaticResearch",
+		"SteelProductionStaticResearch",
+		"CircuitBoardStaticResearch",
+		"FineWireStaticResearch",
+		"SignStaticResearch",
+		"CuttingStaticResearch",
+		"AssemblerStaticResearch",
+		"AdditionalStorage2StaticResearch",
+		"SingleTypeStorageStaticResearch",
+		"DecorativeStone3StaticResearch",
+		"BasicCircuitStaticResearch",
+		"DecorativeWood2StaticResearch",
+		"DecorationClayStaticResearch",
+		"DumpingStaticResearch",
+		"ValveStaticResearch",
+		"MetalConstructionsStaticResearch",
+		"ScaffoldStaticResearch",
+		"DecorationClay2StaticResearch",
+		"FilteringArmStaticResearch",
+		"FluidDumpingStaticResearch",
+		"MultitoolStaticResearch",
+		"FilteringPumpStaticResearch",
+		"Sign2StaticResearch",
+		"FluidFurnaceStaticResearch",
+		"AdvancedCircuitBoardStaticResearch",
+		"MetalConstructions2StaticResearch",
+		"Scaffold2StaticResearch",
+		"Automatization2StaticResearch",
+		"BasicMachines2StaticResearch",
+		"ElectricEngineStaticResearch",
+		"MixerStaticResearch",
+		"DecorativeConcreteStaticResearch",
+		"DistributedComputing2StaticResearch",
+		"RefiningStaticResearch",
+		"ScannerStaticResearch",
+		"SteelProduction2StaticResearch",
+		"DecorativeConcrete2StaticResearch",
+		"DecorativeConcrete3StaticResearch",
+		"DecorativeConcrete4StaticResearch",
+		"FilteringArm2StaticResearch",
+		"ConstructorStaticResearch",
+		"Multitool2StaticResearch",
+		"AdvancedSmeltingStaticResearch",
+		"AtmosphericCondenser2StaticResearch",
+		"HeatConversion2StaticResearch",
+		"DecorativeWood3StaticResearch",
+		"Drying2StaticResearch",
+		"AutomaticFarm2StaticResearch",
+		"PowerGeneration2StaticResearch",
+		"MassivePowerGenerationStaticResearch",
+		"FluidDumping2StaticResearch",
+		"SeparationStaticResearch",
+		"ElectrolysisStaticResearch",
+		"AdvancedCircuitStaticResearch",
+		"ChemistryStaticResearch",
+		"FlywheelStaticResearch",
+		"ElectricFurnaceStaticResearch",
+		"FluidStorage2StaticResearch",
+		"Furnace2StaticResearch",
+		"AutomaticMining2StaticResearch",
+		"DiodeStaticResearch",
+		"Cutting2StaticResearch",
+		"ElectricalSwitchStaticResearch",
+		"AdditionalStorage3StaticResearch",
+		"SingleTypeStorage2StaticResearch",
+		"Lamp2StaticResearch",
+		"DeconstructorStaticResearch",
+		"SolidDumpStaticResearch",
+		"Pump2StaticResearch",
+		"Assembler2StaticResearch",
+		"FilteringPump2StaticResearch",
+		"FluidFurnace2StaticResearch",
+		"HeatTransferring2StaticResearch",
+		"GasDumpStaticResearch",
+		"Sign3StaticResearch",
+		"StainlessSteelProductionStaticResearch",
+		"Automatization3StaticResearch",
+		"PumpjackStaticResearch",
+		"PyrolysisStaticResearch",
+		"PowerGeneration3StaticResearch",
+		"BasicMachines3StaticResearch",
+		"Furnace3StaticResearch",
+		"Separation2StaticResearch",
+		"AdvancedSeparationStaticResearch",
+		"MassivePowerGeneration2StaticResearch",
+		"BatteryBoxStaticResearch",
+		"AtmosphericCondenser3StaticResearch",
+		"GasTurbineStaticResearch",
+		"ElectricEngine2StaticResearch",
+		"Multitool3StaticResearch",
+		"SolarPanelStaticResearch",
+		"DistributedComputing3StaticResearch",
+		"ProcessorStaticResearch",
+		"TerminalStaticResearch",
+		"IndustrialSmeltingStaticResearch",
+		"FluidStorage3StaticResearch",
+		"HeatConversion3StaticResearch",
+		"AutomaticMining3StaticResearch",
+		"FluidFurnace3StaticResearch",
+		"FlatTerminalStaticResearch",
+		"Chemistry2StaticResearch",
+		"Assembler3StaticResearch",
+		"FilteringArm3StaticResearch",
+		"Constructor2StaticResearch",
+		"FermentationStaticResearch",
+		"Deconstructor2StaticResearch",
+		"Electrolysis2StaticResearch",
+		"Cutting3StaticResearch",
+		"SteelProduction3StaticResearch",
+		"Refining2StaticResearch",
+		"AdvancedSmelting2StaticResearch",
+		"Drying3StaticResearch",
+		"AutomaticFarm3StaticResearch",
+		"AdditionalStorage4StaticResearch",
+		"SingleTypeStorage3StaticResearch",
+		"Mixer2StaticResearch",
+		"Pump3StaticResearch",
+		"Diode2StaticResearch",
+		"FluidDumping3StaticResearch",
+		"Lamp3StaticResearch",
+		"ElectricFurnace2StaticResearch",
+		"HeatTransferring3StaticResearch",
+		"FilteringPump3StaticResearch",
+		"Sign4StaticResearch",
+		"QuantumCoreStaticResearch",
+		"DecorativePlasticStaticResearch",
+		"MetalConstructions3StaticResearch",
+		"Scaffold3StaticResearch",
+		"TitaniumProductionStaticResearch",
+		"FissionReactorStaticResearch",
+		"BasicMachines4StaticResearch",
+		"Furnace4StaticResearch",
+		"Multitool4StaticResearch",
+		"InductionCoilStaticResearch",
+		"PowerGeneration4StaticResearch",
+		"MassivePowerGeneration3StaticResearch",
+		"JetpackStaticResearch",
+		"Automatization4StaticResearch",
+		"ElectricEngine3StaticResearch",
+		"Diode3StaticResearch",
+		"AtmosphericCondenser4StaticResearch",
+		"DistributedComputing4StaticResearch",
+		"QuantumCircuitStaticResearch",
+		"AdvancedSmelting3StaticResearch",
+		"AdditionalStorage5StaticResearch",
+		"SolarPanel2StaticResearch",
+		"SingleTypeStorage4StaticResearch",
+		"MetalConstructions4StaticResearch",
+		"BatteryBox2StaticResearch",
+		"AutomaticMining4StaticResearch",
+		"Lamp4StaticResearch",
+		"Scaffold4StaticResearch",
+		"IndustrialSmelting2StaticResearch",
+		"Cutting4StaticResearch",
+		"FilteringArm4StaticResearch",
+		"HardMetalProductionStaticResearch",
+		"PowerGeneration5StaticResearch",
+		"MassivePowerGeneration4StaticResearch",
+		"InductionCoil2StaticResearch",
+		"Multitool5StaticResearch",
+		"FissionReactor2StaticResearch",
+		"HeatConversion4StaticResearch",
+		"ElectricEngine4StaticResearch",
+		"AntigravityUnitStaticResearch",
+		"HeatConversion5StaticResearch",
+		"BatteryBox3StaticResearch",
+		"BasicMachines5StaticResearch",
+		"Automatization5StaticResearch",
+		"Cutting5StaticResearch",
+		"AutomaticMining5StaticResearch",
+		"AdvancedSmelting4StaticResearch",
+		"Separation3StaticResearch",
+		"AdvancedSeparation2StaticResearch",
+		"Chemistry3StaticResearch",
+		"Electrolysis3StaticResearch",
+		"Separation4StaticResearch",
+		"AdvancedSeparation3StaticResearch",
+		"Electrolysis4StaticResearch",
+		"Chemistry4StaticResearch",
+		"MetalConstructions5StaticResearch",
+		"Scaffold5StaticResearch",
+		"SolarPanel3StaticResearch",
+		"Diode4StaticResearch",
+		"FluidStorage4StaticResearch",
+		"FluidStorage5StaticResearch",
+		"NeutroniumProductionStaticResearch",
+		"QuantumProcessorStaticResearch",
+		"QuantumBrainStaticResearch",
+		"Lamp5StaticResearch",
+		"AdditionalStorage6StaticResearch",
+		"SteelProduction4StaticResearch",
+		"SteelProduction5StaticResearch",
+		"SingleTypeStorage5StaticResearch",
+		"AtmosphericCondenser5StaticResearch"
+	],
+	"FlyingMode": false,
+	"MapPoints": [
+		{
+			"Position": [ 81.456031799316406, -116.70997619628906, 0 ],
+			"Color": [ 0, 0, 0, 0 ],
+			"Label": "",
+			"Description": ""
+		}
+	],
+	"EquipmentComponent":
+	{
+		"Inventory":
+		{
+			"Items": [
+				{
+					"Name": "AntigravityUnitStaticItem",
+					"Count": 1
+				}
+			]
+		}
+	},
+	"Hotbar": [
+		"HardMetalMultitoolStaticItem",
+		"BricksStaticItem",
+		"CopperScrewdriverStaticItem",
+		"",
+		"",
+		"",
+		"ScannerStaticItem",
+		"CopperConveyorStaticItem",
+		"CopperDrillingRigStaticItem",
+		"DirtSurfaceStaticItem"
+	],
+	"HotbarShift": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"HotbarCtrl": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"HotbarAlt": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	]
+}
