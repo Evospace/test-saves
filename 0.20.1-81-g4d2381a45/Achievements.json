@@ -1,0 +1,207 @@
+{
+	"Achievements": [
+		{
+			"Name": "CopperPlate",
+			"Total": 8909,
+			"AddValue": 8909,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53635.656795695424
+		},
+		{
+			"Name": "SteelPlate",
+			"Total": 12093,
+			"AddValue": 12093,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53635.656795695424
+		},
+		{
+			"Name": "TitaniumPlate",
+			"Total": 8024,
+			"AddValue": 8024,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53391.743594184518
+		},
+		{
+			"Name": "StainlessSteelPlate",
+			"Total": 17431,
+			"AddValue": 17431,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53635.656795695424
+		},
+		{
+			"Name": "AluminiumPlate",
+			"Total": 269612,
+			"AddValue": 269612,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53635.656795695424
+		},
+		{
+			"Name": "MalachiteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "MagnetiteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "BauxiteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "ThorianiteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "CoalOre",
+			"Total": 336,
+			"AddValue": 336,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 56746.890752408653
+		},
+		{
+			"Name": "NeutroniumPlate",
+			"Total": 3569,
+			"AddValue": 3568,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 73022.654188334942
+		},
+		{
+			"Name": "CompositePlate",
+			"Total": 5116,
+			"AddValue": 5115,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 66254.341714736074
+		},
+		{
+			"Name": "GoldPlate",
+			"Total": 433,
+			"AddValue": 433,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 75032.023085102439
+		},
+		{
+			"Name": "YttriumDust",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "battery",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "NeutroniumPortal",
+			"Total": 3,
+			"AddValue": 1,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 81444.166688170284
+		},
+		{
+			"Name": "CompositeFusionReactor",
+			"Total": 3,
+			"AddValue": 1,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 72822.347656246275
+		},
+		{
+			"Name": "TitaniumFissionReactor",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "SteelLogicCircuit",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "torch",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "Ping",
+			"Total": 129,
+			"AddValue": 129,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 85726.455528493971
+		},
+		{
+			"Name": "PolyethyleneSheet",
+			"Total": 2226,
+			"AddValue": 2226,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 53635.656795695424
+		},
+		{
+			"Name": "SilverGod",
+			"Total": 1,
+			"AddValue": 1,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 76670.877807237208
+		},
+		{
+			"Name": "GoldenGod",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "RubyOre",
+			"Total": 42562,
+			"AddValue": 42562,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 58409.92165376991
+		},
+		{
+			"Name": "CinnabarOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "PyroplatiteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		},
+		{
+			"Name": "PyriteOre",
+			"Total": 45,
+			"AddValue": 45,
+			"IsUnlocked": true,
+			"UnlockedAtGameTime": 59872.60866170004
+		},
+		{
+			"Name": "ChalcopyriteOre",
+			"Total": 0,
+			"AddValue": 0,
+			"IsUnlocked": false,
+			"UnlockedAtGameTime": 0
+		}
+	]
+}

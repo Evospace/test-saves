@@ -1,0 +1,1880 @@
+{
+	"Inventory":
+	{
+		"Limit": -1,
+		"Items": [
+			{
+				"Name": "AdvancedCircuit",
+				"Count": 30
+			},
+			{
+				"Name": "AluminiumBoiler",
+				"Count": 1
+			},
+			{
+				"Name": "AluminiumIndustrialChemReactor",
+				"Count": 1
+			},
+			{
+				"Name": "AluminiumConveyor",
+				"Count": 8
+			},
+			{
+				"Name": "AluminiumConveyor",
+				"Count": 32
+			},
+			{
+				"Name": "AluminiumElectricEngine",
+				"Count": 1
+			},
+			{
+				"Name": "AluminiumPlate",
+				"Count": 128
+			},
+			{
+				"Name": "AluminiumPlate",
+				"Count": 13
+			},
+			{
+				"Name": "AluminiumRobotArm",
+				"Count": 11
+			},
+			{
+				"Name": "AluminiumRobotArm",
+				"Count": 32
+			},
+			{
+				"Name": "AluminiumSorter",
+				"Count": 2
+			},
+			{
+				"Name": "BasicFrame",
+				"Count": 64
+			},
+			{
+				"Name": "BasicFrame",
+				"Count": 54
+			},
+			{
+				"Name": "BasicFrame",
+				"Count": 64
+			},
+			{
+				"Name": "BuildingMaterial",
+				"Count": 194
+			},
+			{
+				"Name": "Cell",
+				"Count": 32
+			},
+			{
+				"Name": "Cell",
+				"Count": 32
+			},
+			{
+				"Name": "Circuit",
+				"Count": 5
+			},
+			{
+				"Name": "Coal",
+				"Count": 22
+			},
+			{
+				"Name": "Coke",
+				"Count": 7
+			},
+			{
+				"Name": "CompositeCombustionEngine",
+				"Count": 1
+			},
+			{
+				"Name": "CompositeIndustrialGenerator",
+				"Count": 1
+			},
+			{
+				"Name": "CompositePlate",
+				"Count": 128
+			},
+			{
+				"Name": "CompositePlate",
+				"Count": 128
+			},
+			{
+				"Name": "CompositePlate",
+				"Count": 128
+			},
+			{
+				"Name": "CompositePlate",
+				"Count": 1
+			},
+			{
+				"Name": "CopperConnector",
+				"Count": 22
+			},
+			{
+				"Name": "CopperConveyor",
+				"Count": 30
+			},
+			{
+				"Name": "CopperLoader",
+				"Count": 1
+			},
+			{
+				"Name": "CopperParts",
+				"Count": 9
+			},
+			{
+				"Name": "CopperPipe",
+				"Count": 5
+			},
+			{
+				"Name": "CopperPlate",
+				"Count": 128
+			},
+			{
+				"Name": "CopperPlate",
+				"Count": 128
+			},
+			{
+				"Name": "CopperPump",
+				"Count": 2
+			},
+			{
+				"Name": "CopperWire",
+				"Count": 100
+			},
+			{
+				"Name": "CopperWire",
+				"Count": 128
+			},
+			{
+				"Name": "Glass",
+				"Count": 45
+			},
+			{
+				"Name": "GoldPlate",
+				"Count": 13
+			},
+			{
+				"Name": "GoldWire",
+				"Count": 30
+			},
+			{
+				"Name": "HighPressureSteampack",
+				"Count": 1
+			},
+			{
+				"Name": "NeutroniumPlate",
+				"Count": 128
+			},
+			{
+				"Name": "NeutroniumPlate",
+				"Count": 19
+			},
+			{
+				"Name": "NeutroniumPlate",
+				"Count": 128
+			},
+			{
+				"Name": "PlatinumFoil",
+				"Count": 128
+			},
+			{
+				"Name": "PlatinumFoil",
+				"Count": 104
+			},
+			{
+				"Name": "PlatinumWire",
+				"Count": 128
+			},
+			{
+				"Name": "Processor",
+				"Count": 19
+			},
+			{
+				"Name": "QuantumBrain",
+				"Count": 9
+			},
+			{
+				"Name": "QuantumProcessor",
+				"Count": 5
+			},
+			{
+				"Name": "ReinforcedConcrete",
+				"Count": 717
+			},
+			{
+				"Name": "ReinforcedFrame",
+				"Count": 55
+			},
+			{
+				"Name": "Resistor",
+				"Count": 64
+			},
+			{
+				"Name": "Resistor",
+				"Count": 64
+			},
+			{
+				"Name": "Resistor",
+				"Count": 64
+			},
+			{
+				"Name": "Resistor",
+				"Count": 38
+			},
+			{
+				"Name": "Silicon",
+				"Count": 28
+			},
+			{
+				"Name": "SiliconWafer",
+				"Count": 64
+			},
+			{
+				"Name": "SiliconWafer",
+				"Count": 64
+			},
+			{
+				"Name": "SiliconWafer",
+				"Count": 4
+			},
+			{
+				"Name": "StainlessSteelAssembler",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelIndustrialChemReactor",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelCompactGenerator",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelElectrolyzer",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelFluidFurnace",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelFractionatingColumn",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelGenerator",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelIndustrialSmelter",
+				"Count": 1
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "StainlessSteelPlate",
+				"Count": 31
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "SteelConveyor",
+				"Count": 1
+			},
+			{
+				"Name": "SteelFluidFurnace",
+				"Count": 1
+			},
+			{
+				"Name": "SteelParts",
+				"Count": 5
+			},
+			{
+				"Name": "SteelPipe",
+				"Count": 27
+			},
+			{
+				"Name": "SteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "SteelPlate",
+				"Count": 128
+			},
+			{
+				"Name": "SteelPlate",
+				"Count": 44
+			},
+			{
+				"Name": "SteelRobotArm",
+				"Count": 6
+			},
+			{
+				"Name": "StoneChest",
+				"Count": 3
+			},
+			{
+				"Name": "TitaniumIndustrialChemReactor",
+				"Count": 1
+			},
+			{
+				"Name": "TitaniumComputer",
+				"Count": 1
+			},
+			{
+				"Name": "TitaniumOreWasher",
+				"Count": 1
+			},
+			{
+				"Name": "TitaniumPlate",
+				"Count": 8
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "TitaniumPyrolysisUnit",
+				"Count": 1
+			},
+			{
+				"Name": "YttriumWire",
+				"Count": 56
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			},
+			{
+				"Name": "None",
+				"Count": 0
+			}
+		]
+	},
+	"SpawnPoint": [ 31.221288737669393, -7054.5707647054069, 2037.4273129298308 ],
+	"ActiveResearchLeft": 0,
+	"ActiveResearch": "",
+	"ResearchQueue": [],
+	"OldResearches": [
+		{
+			"Key": "Constructor",
+			"Value": 0
+		},
+		{
+			"Key": "CircuitBoard",
+			"Value": 0
+		},
+		{
+			"Key": "Triod",
+			"Value": 0
+		},
+		{
+			"Key": "Destroyer",
+			"Value": 0
+		},
+		{
+			"Key": "SingleTypeStorage",
+			"Value": 0
+		},
+		{
+			"Key": "boiler",
+			"Value": 0
+		},
+		{
+			"Key": "Automatization1",
+			"Value": 0
+		},
+		{
+			"Key": "BasicMachines1",
+			"Value": 0
+		},
+		{
+			"Key": "pump",
+			"Value": 0
+		},
+		{
+			"Key": "Electrolyzer",
+			"Value": 0
+		},
+		{
+			"Key": "SteamEngine",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricEngine",
+			"Value": 0
+		},
+		{
+			"Key": "Furnace1",
+			"Value": 0
+		},
+		{
+			"Key": "separator",
+			"Value": 0
+		},
+		{
+			"Key": "Resistor",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedCircuit",
+			"Value": 0
+		},
+		{
+			"Key": "DistributedComputing1",
+			"Value": 0
+		},
+		{
+			"Key": "AutomaticFarm1",
+			"Value": 0
+		},
+		{
+			"Key": "OreWasher",
+			"Value": 0
+		},
+		{
+			"Key": "Mixer",
+			"Value": 0
+		},
+		{
+			"Key": "AluminiumReduction",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSmelting",
+			"Value": 0
+		},
+		{
+			"Key": "AtmosphericCondenser1",
+			"Value": 0
+		},
+		{
+			"Key": "Constructor1",
+			"Value": 0
+		},
+		{
+			"Key": "Smelting2",
+			"Value": 0
+		},
+		{
+			"Key": "Transistor",
+			"Value": 0
+		},
+		{
+			"Key": "Container",
+			"Value": 0
+		},
+		{
+			"Key": "FluidFurnace",
+			"Value": 0
+		},
+		{
+			"Key": "InventoryUpgrade",
+			"Value": 0
+		},
+		{
+			"Key": "Chest1",
+			"Value": 0
+		},
+		{
+			"Key": "SingleTypeStorage1",
+			"Value": 0
+		},
+		{
+			"Key": "HighCapacitySteampack",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedCircuit2",
+			"Value": 0
+		},
+		{
+			"Key": "Automatization2",
+			"Value": 0
+		},
+		{
+			"Key": "StoneTiles",
+			"Value": 0
+		},
+		{
+			"Key": "Concrete",
+			"Value": 0
+		},
+		{
+			"Key": "Loader1",
+			"Value": 0
+		},
+		{
+			"Key": "Destroyer1",
+			"Value": 0
+		},
+		{
+			"Key": "Chest2",
+			"Value": 0
+		},
+		{
+			"Key": "Boiler1",
+			"Value": 0
+		},
+		{
+			"Key": "AutomaticMining2",
+			"Value": 0
+		},
+		{
+			"Key": "DistributedComputing2",
+			"Value": 0
+		},
+		{
+			"Key": "BasicMachines2",
+			"Value": 0
+		},
+		{
+			"Key": "Furnace2",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialChemReactor",
+			"Value": 0
+		},
+		{
+			"Key": "sorter",
+			"Value": 0
+		},
+		{
+			"Key": "AutomaticFarm2",
+			"Value": 0
+		},
+		{
+			"Key": "Mixer1",
+			"Value": 0
+		},
+		{
+			"Key": "SteelProduction2",
+			"Value": 0
+		},
+		{
+			"Key": "Constructor2",
+			"Value": 0
+		},
+		{
+			"Key": "Separator1",
+			"Value": 0
+		},
+		{
+			"Key": "OreWasher1",
+			"Value": 0
+		},
+		{
+			"Key": "AtmosphericCondenser2",
+			"Value": 0
+		},
+		{
+			"Key": "InventoryUpgrade2",
+			"Value": 0
+		},
+		{
+			"Key": "Polyethylene",
+			"Value": 0
+		},
+		{
+			"Key": "StainlessSteelProduction",
+			"Value": 0
+		},
+		{
+			"Key": "ChemicalBath",
+			"Value": 0
+		},
+		{
+			"Key": "Lamp",
+			"Value": 0
+		},
+		{
+			"Key": "DecorativeWood",
+			"Value": 0
+		},
+		{
+			"Key": "Valve",
+			"Value": 0
+		},
+		{
+			"Key": "MetalConstructions",
+			"Value": 0
+		},
+		{
+			"Key": "WoodenPlanks",
+			"Value": 0
+		},
+		{
+			"Key": "DarkTiles",
+			"Value": 0
+		},
+		{
+			"Key": "RedTiles",
+			"Value": 0
+		},
+		{
+			"Key": "KineticHeater",
+			"Value": 0
+		},
+		{
+			"Key": "Terracotta",
+			"Value": 0
+		},
+		{
+			"Key": "TerracottaTiles",
+			"Value": 0
+		},
+		{
+			"Key": "RedBricks",
+			"Value": 0
+		},
+		{
+			"Key": "DarkBricks",
+			"Value": 0
+		},
+		{
+			"Key": "TerracottaBricks",
+			"Value": 0
+		},
+		{
+			"Key": "OverflowPump",
+			"Value": 0
+		},
+		{
+			"Key": "Pump1",
+			"Value": 0
+		},
+		{
+			"Key": "ConcreteSmallTiles",
+			"Value": 0
+		},
+		{
+			"Key": "HighPressureSteampack",
+			"Value": 0
+		},
+		{
+			"Key": "FluidFurnace1",
+			"Value": 0
+		},
+		{
+			"Key": "ConcreteBricks",
+			"Value": 0
+		},
+		{
+			"Key": "ConcreteTiles",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricFurnace",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricalSwitch",
+			"Value": 0
+		},
+		{
+			"Key": "Container1",
+			"Value": 0
+		},
+		{
+			"Key": "Transistor2",
+			"Value": 0
+		},
+		{
+			"Key": "ReinforcedConcrete",
+			"Value": 0
+		},
+		{
+			"Key": "Sifter",
+			"Value": 0
+		},
+		{
+			"Key": "CircuitBoard2",
+			"Value": 0
+		},
+		{
+			"Key": "BatteryBox",
+			"Value": 0
+		},
+		{
+			"Key": "Sign",
+			"Value": 0
+		},
+		{
+			"Key": "Lamp1",
+			"Value": 0
+		},
+		{
+			"Key": "Scaffold",
+			"Value": 0
+		},
+		{
+			"Key": "MetalConstructions1",
+			"Value": 0
+		},
+		{
+			"Key": "DecorativeWood2",
+			"Value": 0
+		},
+		{
+			"Key": "diode",
+			"Value": 0
+		},
+		{
+			"Key": "KineticHeater1",
+			"Value": 0
+		},
+		{
+			"Key": "OverflowPump1",
+			"Value": 0
+		},
+		{
+			"Key": "Pump2",
+			"Value": 0
+		},
+		{
+			"Key": "Resistor2",
+			"Value": 0
+		},
+		{
+			"Key": "Fermentation",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSteampack",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricFurnace1",
+			"Value": 0
+		},
+		{
+			"Key": "ReinforcedConcreteTiles",
+			"Value": 0
+		},
+		{
+			"Key": "ReinforcedConcreteSmallTiles",
+			"Value": 0
+		},
+		{
+			"Key": "ReinforcedConcreteBricks",
+			"Value": 0
+		},
+		{
+			"Key": "DangerBlock",
+			"Value": 0
+		},
+		{
+			"Key": "FluidFurnace2",
+			"Value": 0
+		},
+		{
+			"Key": "SingleTypeStorage2",
+			"Value": 0
+		},
+		{
+			"Key": "Destroyer2",
+			"Value": 0
+		},
+		{
+			"Key": "SteamEngine1",
+			"Value": 0
+		},
+		{
+			"Key": "Transistor3",
+			"Value": 0
+		},
+		{
+			"Key": "Automatization3",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSmelting1",
+			"Value": 0
+		},
+		{
+			"Key": "Loader2",
+			"Value": 0
+		},
+		{
+			"Key": "Sign1",
+			"Value": 0
+		},
+		{
+			"Key": "Lamp2",
+			"Value": 0
+		},
+		{
+			"Key": "Fence",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSign",
+			"Value": 0
+		},
+		{
+			"Key": "Flashlight",
+			"Value": 0
+		},
+		{
+			"Key": "Scaffold1",
+			"Value": 0
+		},
+		{
+			"Key": "MetalConstructions2",
+			"Value": 0
+		},
+		{
+			"Key": "PrimitiveBattery",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricEngine1",
+			"Value": 0
+		},
+		{
+			"Key": "Catalyst2",
+			"Value": 0
+		},
+		{
+			"Key": "Sign2",
+			"Value": 0
+		},
+		{
+			"Key": "Lamp3",
+			"Value": 0
+		},
+		{
+			"Key": "DecorativeWood4",
+			"Value": 0
+		},
+		{
+			"Key": "FuelChemistry",
+			"Value": 0
+		},
+		{
+			"Key": "BasicMachines3",
+			"Value": 0
+		},
+		{
+			"Key": "Oven2",
+			"Value": 0
+		},
+		{
+			"Key": "Chest3",
+			"Value": 0
+		},
+		{
+			"Key": "Capacitor2",
+			"Value": 0
+		},
+		{
+			"Key": "Container2",
+			"Value": 0
+		},
+		{
+			"Key": "Electrolyzer1",
+			"Value": 0
+		},
+		{
+			"Key": "Constructor3",
+			"Value": 0
+		},
+		{
+			"Key": "Mixer2",
+			"Value": 0
+		},
+		{
+			"Key": "Generator",
+			"Value": 0
+		},
+		{
+			"Key": "SteamTurbine",
+			"Value": 0
+		},
+		{
+			"Key": "Processor2",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialSmelting",
+			"Value": 0
+		},
+		{
+			"Key": "PyrolysisUnit",
+			"Value": 0
+		},
+		{
+			"Key": "Sulfur",
+			"Value": 0
+		},
+		{
+			"Key": "SulfuricAcid",
+			"Value": 0
+		},
+		{
+			"Key": "RareEarthSludge",
+			"Value": 0
+		},
+		{
+			"Key": "QuantumCore",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSign1",
+			"Value": 0
+		},
+		{
+			"Key": "SiliconWafer",
+			"Value": 0
+		},
+		{
+			"Key": "Sign3",
+			"Value": 0
+		},
+		{
+			"Key": "Diode1",
+			"Value": 0
+		},
+		{
+			"Key": "Fence1",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialChemReactor1",
+			"Value": 0
+		},
+		{
+			"Key": "FractionatingColumn",
+			"Value": 0
+		},
+		{
+			"Key": "NitricAcid",
+			"Value": 0
+		},
+		{
+			"Key": "SmallSolarPanel",
+			"Value": 0
+		},
+		{
+			"Key": "SolarPanel",
+			"Value": 0
+		},
+		{
+			"Key": "Scaffold2",
+			"Value": 0
+		},
+		{
+			"Key": "KineticHeater2",
+			"Value": 0
+		},
+		{
+			"Key": "OverflowPump2",
+			"Value": 0
+		},
+		{
+			"Key": "Sorter1",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricEngine2",
+			"Value": 0
+		},
+		{
+			"Key": "boiler2",
+			"Value": 0
+		},
+		{
+			"Key": "battery",
+			"Value": 0
+		},
+		{
+			"Key": "Chest4",
+			"Value": 0
+		},
+		{
+			"Key": "CarbonFiber",
+			"Value": 0
+		},
+		{
+			"Key": "Capacitor3",
+			"Value": 0
+		},
+		{
+			"Key": "Sign4",
+			"Value": 0
+		},
+		{
+			"Key": "DecorativePlastic",
+			"Value": 0
+		},
+		{
+			"Key": "KrollProcess",
+			"Value": 0
+		},
+		{
+			"Key": "PlatinumSolution",
+			"Value": 0
+		},
+		{
+			"Key": "CarbonFiberSheet",
+			"Value": 0
+		},
+		{
+			"Key": "CircuitBoard3",
+			"Value": 0
+		},
+		{
+			"Key": "TitaniumProduction",
+			"Value": 0
+		},
+		{
+			"Key": "Furnace3",
+			"Value": 0
+		},
+		{
+			"Key": "AutomaticFarm3",
+			"Value": 0
+		},
+		{
+			"Key": "AtmosphericCondenser3",
+			"Value": 0
+		},
+		{
+			"Key": "Pump3",
+			"Value": 0
+		},
+		{
+			"Key": "Resistor3",
+			"Value": 0
+		},
+		{
+			"Key": "OverflowPump3",
+			"Value": 0
+		},
+		{
+			"Key": "PreciseTemperaturePyrolysis",
+			"Value": 0
+		},
+		{
+			"Key": "PowerGeneration3",
+			"Value": 0
+		},
+		{
+			"Key": "Assembler1",
+			"Value": 0
+		},
+		{
+			"Key": "Diode2",
+			"Value": 0
+		},
+		{
+			"Key": "Separator2",
+			"Value": 0
+		},
+		{
+			"Key": "Destroyer3",
+			"Value": 0
+		},
+		{
+			"Key": "Sifter1",
+			"Value": 0
+		},
+		{
+			"Key": "BatteryBox1",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSign2",
+			"Value": 0
+		},
+		{
+			"Key": "ElectricFurnace2",
+			"Value": 0
+		},
+		{
+			"Key": "SteelProduction3",
+			"Value": 0
+		},
+		{
+			"Key": "SingleTypeStorage3",
+			"Value": 0
+		},
+		{
+			"Key": "MetalConstructions3",
+			"Value": 0
+		},
+		{
+			"Key": "FuelChemistry2",
+			"Value": 0
+		},
+		{
+			"Key": "Fermentation1",
+			"Value": 0
+		},
+		{
+			"Key": "KineticHeater3",
+			"Value": 0
+		},
+		{
+			"Key": "Terminal",
+			"Value": 0
+		},
+		{
+			"Key": "Scaffold3",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedSmelting2",
+			"Value": 0
+		},
+		{
+			"Key": "SteamEngine2",
+			"Value": 0
+		},
+		{
+			"Key": "Loader3",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialSteelProduction",
+			"Value": 0
+		},
+		{
+			"Key": "SmallSolarPanel1",
+			"Value": 0
+		},
+		{
+			"Key": "Sorter2",
+			"Value": 0
+		},
+		{
+			"Key": "Oven3",
+			"Value": 0
+		},
+		{
+			"Key": "Container3",
+			"Value": 0
+		},
+		{
+			"Key": "AutomaticMining3",
+			"Value": 0
+		},
+		{
+			"Key": "FlatTerminal",
+			"Value": 0
+		},
+		{
+			"Key": "AdvancedBattery",
+			"Value": 0
+		},
+		{
+			"Key": "DecisionResonator2",
+			"Value": 0
+		},
+		{
+			"Key": "SolarPanel1",
+			"Value": 0
+		},
+		{
+			"Key": "Generator2",
+			"Value": 0
+		},
+		{
+			"Key": "Automatization4",
+			"Value": 0
+		},
+		{
+			"Key": "InventoryUpgrade4",
+			"Value": 0
+		},
+		{
+			"Key": "Chest5",
+			"Value": 0
+		},
+		{
+			"Key": "PlatinumReflector",
+			"Value": 0
+		},
+		{
+			"Key": "NeutroniumProduction",
+			"Value": 0
+		},
+		{
+			"Key": "Generator3",
+			"Value": 0
+		},
+		{
+			"Key": "CombustionEngine1",
+			"Value": 0
+		},
+		{
+			"Key": "CombustionEngine2",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialSteamTurbine",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialGenerator",
+			"Value": 0
+		},
+		{
+			"Key": "IndustrialGenerator1",
+			"Value": 0
+		},
+		{
+			"Key": "NeutroniumProduction2",
+			"Value": 0
+		},
+		{
+			"Key": "CombustionEngine3",
+			"Value": 0
+		},
+		{
+			"Key": "OreWasher4",
+			"Value": 0
+		},
+		{
+			"Key": "OreWasher5",
+			"Value": 0
+		},
+		{
+			"Key": "Assembler4",
+			"Value": 0
+		},
+		{
+			"Key": "Constructor4",
+			"Value": 0
+		},
+		{
+			"Key": "Constructor5",
+			"Value": 0
+		},
+		{
+			"Key": "FractionatingColumn1",
+			"Value": 0
+		},
+		{
+			"Key": "Electrolyzer4",
+			"Value": 0
+		},
+		{
+			"Key": "Automatization5",
+			"Value": 0
+		},
+		{
+			"Key": "FractionatingColumn2",
+			"Value": 0
+		}
+	],
+	"CompletedResearches": [
+		"MineralsScan",
+		"BasicPlatform",
+		"chest",
+		"Electricity",
+		"PowerGeneration",
+		"Smelting",
+		"Metalwork",
+		"DistributedComputing",
+		"CopperWire",
+		"BasicMachines",
+		"Automatization",
+		"AutomaticMining",
+		"AutomaticFarm",
+		"AtmosphericCondenser",
+		"HeatTransferring",
+		"Furnace",
+		"Smelting1",
+		"Oven",
+		"Constructor",
+		"CircuitBoard",
+		"Triod",
+		"Circuit",
+		"Loader",
+		"Destroyer",
+		"SteelProduction",
+		"SingleTypeStorage",
+		"boiler",
+		"Automatization1",
+		"BasicMachines1",
+		"pump",
+		"Steampack",
+		"SteamEngine",
+		"ElectricEngine",
+		"Furnace1",
+		"AutomaticMining1",
+		"separator",
+		"Resistor",
+		"AdvancedCircuit",
+		"DistributedComputing1",
+		"Electrolyzer",
+		"AutomaticFarm1",
+		"OreWasher",
+		"Mixer",
+		"flywheel",
+		"AluminiumReduction",
+		"AdvancedSmelting",
+		"AtmosphericCondenser1",
+		"Constructor1",
+		"Smelting2",
+		"PowerGeneration1",
+		"Transistor",
+		"Container",
+		"FluidFurnace",
+		"InventoryUpgrade",
+		"Chest1",
+		"SingleTypeStorage1",
+		"HighCapacitySteampack",
+		"AdvancedCircuit2",
+		"Bricks",
+		"StoneTiles",
+		"Concrete",
+		"Loader1",
+		"AluminiumProduction",
+		"Circuit2",
+		"Automatization2",
+		"SteelProduction1",
+		"Destroyer1",
+		"InventoryUpgrade1",
+		"Assembler",
+		"Chest2",
+		"Boiler1",
+		"Processor",
+		"Oven1",
+		"DistributedComputing2",
+		"BasicMachines2",
+		"AutomaticMining2",
+		"PowerGeneration2",
+		"Furnace2",
+		"IndustrialChemReactor",
+		"sorter",
+		"AutomaticFarm2",
+		"Mixer1",
+		"SteelProduction2",
+		"Catalyst",
+		"Constructor2",
+		"Separator1",
+		"OreWasher1",
+		"AtmosphericCondenser2",
+		"InventoryUpgrade2",
+		"Polyethylene",
+		"Capacitor",
+		"AdvancedAlloys",
+		"StainlessSteelProduction",
+		"ChemicalBath",
+		"Lamp",
+		"DecorativeWood",
+		"Valve",
+		"MetalConstructions",
+		"WoodenPlanks",
+		"DarkTiles",
+		"RedTiles",
+		"KineticHeater",
+		"Terracotta",
+		"TerracottaTiles",
+		"RedBricks",
+		"DarkBricks",
+		"TerracottaBricks",
+		"OverflowPump",
+		"Pump1",
+		"ConcreteSmallTiles",
+		"HighPressureSteampack",
+		"FluidFurnace1",
+		"ConcreteBricks",
+		"ConcreteTiles",
+		"ElectricFurnace",
+		"ElectricalSwitch",
+		"Container1",
+		"Transistor2",
+		"ReinforcedConcrete",
+		"Sifter",
+		"CircuitBoard2",
+		"BatteryBox",
+		"Sign",
+		"Lamp1",
+		"Scaffold",
+		"MetalConstructions1",
+		"DecorativeWood2",
+		"diode",
+		"KineticHeater1",
+		"OverflowPump1",
+		"Pump2",
+		"Resistor2",
+		"Fermentation",
+		"AdvancedSteampack",
+		"ElectricFurnace1",
+		"ReinforcedConcreteTiles",
+		"ReinforcedConcreteSmallTiles",
+		"ReinforcedConcreteBricks",
+		"DangerBlock",
+		"FluidFurnace2",
+		"SingleTypeStorage2",
+		"Destroyer2",
+		"SteamEngine1",
+		"Transistor3",
+		"Automatization3",
+		"AdvancedSmelting1",
+		"Loader2",
+		"Sign1",
+		"Lamp2",
+		"Fence",
+		"AdvancedSign",
+		"Flashlight",
+		"Scaffold1",
+		"MetalConstructions2",
+		"DecorativeWood3",
+		"PrimitiveBattery",
+		"ElectricEngine1",
+		"Catalyst2",
+		"Sign2",
+		"Lamp3",
+		"DecorativeWood4",
+		"FuelChemistry",
+		"BasicMachines3",
+		"Oven2",
+		"Chest3",
+		"Capacitor2",
+		"Container2",
+		"Electrolyzer1",
+		"Constructor3",
+		"Mixer2",
+		"Pumpjack",
+		"Generator",
+		"SteamTurbine",
+		"Processor2",
+		"IndustrialSmelting",
+		"PyrolysisUnit",
+		"Sulfur",
+		"SulfuricAcid",
+		"RareEarthSludge",
+		"QuantumCore",
+		"QuantumCircuit",
+		"Jetpack",
+		"AdvancedSign1",
+		"SiliconWafer",
+		"Sign3",
+		"Diode1",
+		"Fence1",
+		"QuantumCircuit2",
+		"DistributedComputing3",
+		"IndustrialChemReactor1",
+		"FractionatingColumn",
+		"CombustionEngine",
+		"NitricAcid",
+		"SmallSolarPanel",
+		"SolarPanel",
+		"Scaffold2",
+		"KineticHeater2",
+		"OverflowPump2",
+		"Sorter1",
+		"ElectricEngine2",
+		"AdvancedJetpack",
+		"Generator1",
+		"boiler2",
+		"SteamTurbine1",
+		"battery",
+		"BasicBattery",
+		"Electrolyzer2",
+		"Chest4",
+		"CarbonFiber",
+		"Capacitor3",
+		"Sign4",
+		"DecorativePlastic",
+		"KrollProcess",
+		"DecisionResonator",
+		"PlatinumSolution",
+		"InventoryUpgrade3",
+		"CarbonFiberSheet",
+		"CircuitBoard3",
+		"FluidFurnace3",
+		"OreWasher2",
+		"CrudeTantalum",
+		"Capacitor4",
+		"ChemicalBath1",
+		"TitaniumProduction",
+		"Furnace3",
+		"AutomaticFarm3",
+		"AtmosphericCondenser3",
+		"Pump3",
+		"Resistor3",
+		"OverflowPump3",
+		"PreciseTemperaturePyrolysis",
+		"PowerGeneration3",
+		"Assembler1",
+		"Diode2",
+		"Separator2",
+		"Destroyer3",
+		"Sifter1",
+		"BatteryBox1",
+		"AdvancedSign2",
+		"ElectricFurnace2",
+		"SteelProduction3",
+		"SingleTypeStorage3",
+		"MetalConstructions3",
+		"FuelChemistry2",
+		"Fermentation1",
+		"KineticHeater3",
+		"Terminal",
+		"Scaffold3",
+		"AdvancedSmelting2",
+		"SteamEngine2",
+		"Loader3",
+		"IndustrialSteelProduction",
+		"SmallSolarPanel1",
+		"Sorter2",
+		"Oven3",
+		"Container3",
+		"AutomaticMining3",
+		"FlatTerminal",
+		"AdvancedBattery",
+		"DecisionResonator2",
+		"SolarPanel1",
+		"QuantumProcessor",
+		"DistributedComputing4",
+		"QuantumProcessor2",
+		"PyrolysisUnit1",
+		"Generator2",
+		"Assembler2",
+		"Automatization4",
+		"Pumpjack1",
+		"CompositePlate",
+		"InventoryUpgrade4",
+		"Chest5",
+		"InventoryUpgrade5",
+		"IndustrialSmelting1",
+		"IndustrialChemReactor2",
+		"BasicMachines4",
+		"OreWasher3",
+		"PyrolysisUnit2",
+		"PlatinumReflector",
+		"FusionReactor",
+		"Electrolyzer3",
+		"IndustrialChemReactor3",
+		"Mixer3",
+		"Fermentation2",
+		"ElectricEngine3",
+		"ElectricEngine4",
+		"FusionReaction",
+		"NeutroniumProduction",
+		"Generator3",
+		"CombustionEngine1",
+		"CombustionEngine2",
+		"UltimateCatalyst",
+		"IndustrialBoiler",
+		"IndustrialSteamTurbine",
+		"IndustrialGenerator",
+		"IndustrialGenerator1",
+		"BrainMatrix",
+		"NeutroniumProduction2",
+		"FuelChemistry3",
+		"FuelChemistry4",
+		"QuantumBrain",
+		"DistributedComputing5",
+		"Portal",
+		"FluidFurnace4",
+		"QuantumBrain2",
+		"PyrolysisUnit3",
+		"CombustionEngine3",
+		"IndustrialGenerator2",
+		"OreWasher4",
+		"OreWasher5",
+		"Assembler3",
+		"Assembler4",
+		"Constructor4",
+		"Constructor5",
+		"FractionatingColumn1",
+		"Electrolyzer4",
+		"IndustrialChemReactor4",
+		"Automatization5",
+		"Automatization6",
+		"ChemicalBath2",
+		"DopedSiliconWafer",
+		"FractionatingColumn2",
+		"Pumpjack2",
+		"SolarPanel2",
+		"SolarPanel3",
+		"Pump4",
+		"Pump5",
+		"PowerGeneration4",
+		"Pumpjack3"
+	],
+	"FavouriteUniversalSearch": [],
+	"LastUniversalSearch": "",
+	"DigSpeed": 1,
+	"DigBlocks": true,
+	"DigMachines": true,
+	"DigSurface": true,
+	"TutorialPhase": [],
+	"Searches": [
+		"solar",
+		"",
+		"hot",
+		"sw",
+		"coil",
+		"pow",
+		"mod",
+		"coal",
+		"fra",
+		"batt"
+	],
+	"FavoriteTab":
+	{
+		"Limit": -1,
+		"Items": [
+			{
+				"Name": "YttriumDust",
+				"Count": 0
+			},
+			{
+				"Name": "RareEarthSludge",
+				"Count": 0
+			},
+			{
+				"Name": "QuantumCircuit",
+				"Count": 0
+			},
+			{
+				"Name": "Processor",
+				"Count": 0
+			},
+			{
+				"Name": "AdvancedCircuit",
+				"Count": 0
+			},
+			{
+				"Name": "StainlessSteelSolarCell",
+				"Count": 26
+			},
+			{
+				"Name": "NeutroniumSolarPanel",
+				"Count": 0
+			}
+		]
+	},
+	"Blocked": false,
+	"FlyingMode": true,
+	"Transform": [ -3790.8692779043949, -13499.146865214767, 1298.1500330082804, 0.012075871621656502, 0.15009057876587079, -0.079283690673935536, 0.98541417073402293 ],
+	"MapPoints": [],
+	"EquipmentComponent":
+	{
+		"InventoryJetpack":
+		{
+			"Limit": -1,
+			"Items": [
+				{
+					"Name": "HighCapacitySteampack",
+					"Count": 1
+				}
+			]
+		},
+		"InventoryLight":
+		{
+			"Limit": -1,
+			"Items": [
+				{
+					"Name": "None",
+					"Count": 0
+				}
+			]
+		}
+	},
+	"Hotbar": [
+		"multitool",
+		"ReinforcedConcrete",
+		"",
+		"AluminiumRobotArm",
+		"AluminiumConveyor",
+		"CopperPipe",
+		"CopperHeatPipe",
+		"CopperConnector",
+		"",
+		""
+	],
+	"HotbarShift": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"HotbarCtrl": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"HotbarAlt": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"MapWidgetData":
+	{
+		"OreLayer": false,
+		"FertileLayer": false,
+		"OilLayer": true,
+		"OreNames": false,
+		"OreDescription": false,
+		"PercentText": false,
+		"SpawnPoint": true,
+		"MapObjects": false
+	}
+}

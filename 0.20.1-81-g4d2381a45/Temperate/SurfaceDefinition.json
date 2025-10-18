@@ -1,0 +1,6051 @@
+{
+	"SurfaceDefinition":
+	{
+		"GeneratorName": "WorldGeneratorRivers",
+		"RegionMap":
+		{
+			"Known": [
+				{
+					"Key": [ 0, 0 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [
+							{
+								"Offset": [ 0, 0 ],
+								"Structure": "StartPlatform"
+							}
+						],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 240,
+									"CurrentValue": 2400,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 196,
+									"CurrentValue": 1960,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 201,
+									"CurrentValue": 2010,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 200,
+									"CurrentValue": 2000,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -241, 86 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -194, 48 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -196, 232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -154, 49 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -96, 0 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -107, 95 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4982,
+									"CurrentValue": 49820,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3887,
+									"CurrentValue": 38870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 216,
+									"CurrentValue": 2160,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4796,
+									"CurrentValue": 47960,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 2345,
+									"CurrentValue": 32690,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1451,
+									"CurrentValue": 20054,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1799,
+									"CurrentValue": 24766,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 318,
+									"CurrentValue": 4412,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 43,
+									"CurrentValue": 430,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2,
+									"CurrentValue": 20,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 38,
+									"CurrentValue": 380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ 1, -234 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 89965,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -3, -144 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 74079,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ 0, -92 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 53164,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ 5, -50 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ 52, -233 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ 37, -190 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ 151, -189 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 221,
+									"CurrentValue": 2210,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 198,
+									"CurrentValue": 1980,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 359,
+									"CurrentValue": 4822,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 117,
+									"CurrentValue": 1170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -241, -231 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -230, -195 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -241, -57 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -184, -231 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 98886,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -192, -196 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -200, -155 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -134, -244 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 96027,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -155, -193 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -149, -149 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -146, -97 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -137, -51 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 97752,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -101, -199 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 83149,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -94, -36 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -46, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -55, -186 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 99034,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -40, -138 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4754,
+									"CurrentValue": 47540,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4808,
+									"CurrentValue": 48080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1850,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3796,
+									"CurrentValue": 37960,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4731,
+									"CurrentValue": 47310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 1458,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4922,
+									"CurrentValue": 17650,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4466,
+									"CurrentValue": 16511,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 4776,
+									"CurrentValue": 35666,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 772,
+									"CurrentValue": 10800,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2352,
+									"CurrentValue": 32760,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2965,
+									"CurrentValue": 41354,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3081,
+									"CurrentValue": 43130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 602,
+									"CurrentValue": 8484,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 634,
+									"CurrentValue": 8804,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 64,
+									"CurrentValue": 640,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 81,
+									"CurrentValue": 810,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 515,
+									"CurrentValue": 6998,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 712,
+									"CurrentValue": 9584,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 87,
+									"CurrentValue": 870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 97,
+									"CurrentValue": 970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 627,
+									"CurrentValue": 8734,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 34,
+									"CurrentValue": 340,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 84,
+									"CurrentValue": 840,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 88,
+									"CurrentValue": 880,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -245, 300 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -237, 423 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -180, 390 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -133, 488 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 226,
+									"CurrentValue": 2260,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2685,
+									"CurrentValue": 26850,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 203,
+									"CurrentValue": 2030,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 387,
+									"CurrentValue": 5102,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 15,
+									"CurrentValue": 150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 2486,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 176,
+									"CurrentValue": 2376,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 148,
+									"CurrentValue": 1480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 558,
+									"CurrentValue": 7428,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 234,
+									"CurrentValue": 2340,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 209,
+									"CurrentValue": 2090,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 198,
+									"CurrentValue": 1980,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 216,
+									"CurrentValue": 2160,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 204,
+									"CurrentValue": 2040,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 234,
+									"CurrentValue": 2340,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 0 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 243,
+									"CurrentValue": 2430,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 209,
+									"CurrentValue": 2090,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 219,
+									"CurrentValue": 2190,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 209,
+									"CurrentValue": 2090,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 1870,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, -1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 226,
+									"CurrentValue": 2260,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -487, -230 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -480, -96 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -482, -44 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -423, -239 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -425, -194 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -442, -144 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -375, -191 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -381, -85 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -339, -180 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -340, -105 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 91588,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -293, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 85654,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -296, -43 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2742,
+									"CurrentValue": 27420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2250,
+									"CurrentValue": 22500,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 243,
+									"CurrentValue": 2430,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 243,
+									"CurrentValue": 2430,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 226,
+									"CurrentValue": 2260,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 805,
+									"CurrentValue": 11130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 831,
+									"CurrentValue": 11390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 983,
+									"CurrentValue": 13526,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 920,
+									"CurrentValue": 12896,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 975,
+									"CurrentValue": 13446,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 532,
+									"CurrentValue": 7168,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 564,
+									"CurrentValue": 7488,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1573,
+									"CurrentValue": 21890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 953,
+									"CurrentValue": 13226,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3090,
+									"CurrentValue": 43220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3084,
+									"CurrentValue": 43160,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1666,
+									"CurrentValue": 23436,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 977,
+									"CurrentValue": 13466,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2834,
+									"CurrentValue": 39428,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2594,
+									"CurrentValue": 36412,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1914,
+									"CurrentValue": 26532,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -485, -8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -476, 38 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -480, 94 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -489, 229 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -426, 48 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -440, 146 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -442, 191 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 94377,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -386, -10 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -390, 93 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -392, 137 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -390, 188 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -345, 3 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -336, 92 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -299, 43 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -285, 101 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -288, 250 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 219,
+									"CurrentValue": 2190,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 227,
+									"CurrentValue": 2270,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 247,
+									"CurrentValue": 2470,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 209,
+									"CurrentValue": 2090,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 196,
+									"CurrentValue": 1960,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 3713,
+									"CurrentValue": 51914,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2384,
+									"CurrentValue": 33080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2638,
+									"CurrentValue": 36852,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2888,
+									"CurrentValue": 40584,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1745,
+									"CurrentValue": 24226,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2677,
+									"CurrentValue": 37242,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1761,
+									"CurrentValue": 24386,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2421,
+									"CurrentValue": 34066,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 998,
+									"CurrentValue": 13676,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2517,
+									"CurrentValue": 35026,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2462,
+									"CurrentValue": 34476,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2312,
+									"CurrentValue": 32360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1406,
+									"CurrentValue": 19604,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2159,
+									"CurrentValue": 30214,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 2050,
+									"CurrentValue": 28508,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 747,
+									"CurrentValue": 9934,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -474, 285 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -486, 387 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -471, 471 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -425, 435 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -441, 470 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -375, 429 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -329, 327 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -333, 392 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -346, 442 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -284, 325 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -277, 395 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 196,
+									"CurrentValue": 1960,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 240,
+									"CurrentValue": 2400,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 229,
+									"CurrentValue": 2290,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 219,
+									"CurrentValue": 2190,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 874,
+									"CurrentValue": 11820,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 869,
+									"CurrentValue": 11770,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 44,
+									"CurrentValue": 440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 577,
+									"CurrentValue": 7618,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 3096,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 447,
+									"CurrentValue": 5702,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 777,
+									"CurrentValue": 10850,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 53,
+									"CurrentValue": 530,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2726,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 270,
+									"CurrentValue": 3316,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 740,
+									"CurrentValue": 9864,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 57,
+									"CurrentValue": 570,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 25,
+									"CurrentValue": 250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -484, 684 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -487, 731 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -427, 676 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -427, 722 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -393, 529 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -375, 579 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -383, 620 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -387, 673 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -384, 712 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -338, 614 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -290, 584 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -279, 633 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 221,
+									"CurrentValue": 2210,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 240,
+									"CurrentValue": 2400,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 221,
+									"CurrentValue": 2210,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 58,
+									"CurrentValue": 580,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 622,
+									"CurrentValue": 8684,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 821,
+									"CurrentValue": 11290,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 51,
+									"CurrentValue": 510,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 419,
+									"CurrentValue": 5422,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 761,
+									"CurrentValue": 10690,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 775,
+									"CurrentValue": 10830,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 495,
+									"CurrentValue": 6798,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 605,
+									"CurrentValue": 8514,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 289,
+									"CurrentValue": 3506,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 537,
+									"CurrentValue": 7218,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 462,
+									"CurrentValue": 6468,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 621,
+									"CurrentValue": 8674,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 708,
+									"CurrentValue": 9544,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 347,
+									"CurrentValue": 4702,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -246, 622 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -245, 673 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -188, 633 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -203, 711 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -148, 528 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -141, 621 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -142, 671 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -56, 581 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -52, 631 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 201,
+									"CurrentValue": 2010,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 204,
+									"CurrentValue": 2040,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 579,
+									"CurrentValue": 7638,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 554,
+									"CurrentValue": 7388,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 379,
+									"CurrentValue": 5022,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 374,
+									"CurrentValue": 4972,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 252,
+									"CurrentValue": 3136,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 258,
+									"CurrentValue": 3196,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2666,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 17,
+									"CurrentValue": 170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 36,
+									"CurrentValue": 360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 203,
+									"CurrentValue": 2030,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 216,
+									"CurrentValue": 2160,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 203,
+									"CurrentValue": 2030,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 1870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 227,
+									"CurrentValue": 2270,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 201,
+									"CurrentValue": 2010,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 1870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 247,
+									"CurrentValue": 2470,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 200,
+									"CurrentValue": 2000,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 1870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 229,
+									"CurrentValue": 2290,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 204,
+									"CurrentValue": 2040,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 227,
+									"CurrentValue": 2270,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 0 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 234,
+									"CurrentValue": 2340,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 228,
+									"CurrentValue": 2280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, -1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 218,
+									"CurrentValue": 2180,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 218,
+									"CurrentValue": 2180,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ 715, -483 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 207,
+									"CurrentValue": 2070,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 237,
+									"CurrentValue": 2370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 241,
+									"CurrentValue": 2410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 212,
+									"CurrentValue": 2120,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 221,
+									"CurrentValue": 2210,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 240,
+									"CurrentValue": 2400,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, -2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 219,
+									"CurrentValue": 2190,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 214,
+									"CurrentValue": 2140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -4, -326 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ 53, -280 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 247,
+									"CurrentValue": 2470,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 211,
+									"CurrentValue": 2110,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 227,
+									"CurrentValue": 2270,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 226,
+									"CurrentValue": 2260,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 192,
+									"CurrentValue": 1920,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 198,
+									"CurrentValue": 1980,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 193,
+									"CurrentValue": 1930,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 248,
+									"CurrentValue": 2480,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 240,
+									"CurrentValue": 2400,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 210,
+									"CurrentValue": 2100,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 188,
+									"CurrentValue": 1880,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 217,
+									"CurrentValue": 2170,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 116,
+									"CurrentValue": 1160,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -185, -485 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -192, -331 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -145, -384 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -152, -338 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -103, -373 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -97, -343 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -53, -442 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 242,
+									"CurrentValue": 2420,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 222,
+									"CurrentValue": 2220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 201,
+									"CurrentValue": 2010,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 206,
+									"CurrentValue": 2060,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 198,
+									"CurrentValue": 1980,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 232,
+									"CurrentValue": 2320,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 189,
+									"CurrentValue": 1890,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 234,
+									"CurrentValue": 2340,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 213,
+									"CurrentValue": 2130,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 304,
+									"CurrentValue": 4272,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 441,
+									"CurrentValue": 5642,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 438,
+									"CurrentValue": 5612,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 736,
+									"CurrentValue": 9824,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 637,
+									"CurrentValue": 8834,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 574,
+									"CurrentValue": 7588,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 791,
+									"CurrentValue": 10990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 675,
+									"CurrentValue": 9214,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 146,
+									"CurrentValue": 1460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 657,
+									"CurrentValue": 9034,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 431,
+									"CurrentValue": 5542,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 721,
+									"CurrentValue": 9674,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 364,
+									"CurrentValue": 4872,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 596,
+									"CurrentValue": 7808,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -471, -486 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -470, -395 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -476, -276 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -425, -332 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -438, -287 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -383, -278 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -346, -375 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "ChalcopyriteCluster",
+								"Offset": [ -335, -332 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -337, -296 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -299, -443 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -284, -379 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -293, -286 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 195,
+									"CurrentValue": 1950,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 239,
+									"CurrentValue": 2390,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 244,
+									"CurrentValue": 2440,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 192,
+									"CurrentValue": 1920,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 190,
+									"CurrentValue": 1900,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 215,
+									"CurrentValue": 2150,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 194,
+									"CurrentValue": 1940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 223,
+									"CurrentValue": 2230,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 198,
+									"CurrentValue": 1980,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 216,
+									"CurrentValue": 2160,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 290,
+									"CurrentValue": 3516,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 203,
+									"CurrentValue": 2646,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 684,
+									"CurrentValue": 9304,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 853,
+									"CurrentValue": 11610,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 9,
+									"CurrentValue": 90,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 479,
+									"CurrentValue": 6638,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 511,
+									"CurrentValue": 6958,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 8,
+									"CurrentValue": 80,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 549,
+									"CurrentValue": 7338,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 713,
+									"CurrentValue": 9594,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 345,
+									"CurrentValue": 4682,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 441,
+									"CurrentValue": 5642,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 392,
+									"CurrentValue": 5152,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 835,
+									"CurrentValue": 11430,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -3, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -756, -93 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -769, -50 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -667, -240 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -668, -100 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -624, -240 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -615, -85 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "BauxiteCluster",
+								"Offset": [ -629, -38 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -565, -249 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -578, -135 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -576, -102 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -525, -187 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -539, -99 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -520, -51 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 233,
+									"CurrentValue": 2330,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 225,
+									"CurrentValue": 2250,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 231,
+									"CurrentValue": 2310,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 249,
+									"CurrentValue": 2490,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 236,
+									"CurrentValue": 2360,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 201,
+									"CurrentValue": 2010,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 187,
+									"CurrentValue": 1870,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 209,
+									"CurrentValue": 2090,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 208,
+									"CurrentValue": 2080,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 238,
+									"CurrentValue": 2380,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 196,
+									"CurrentValue": 1960,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 851,
+									"CurrentValue": 11590,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 753,
+									"CurrentValue": 10610,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 669,
+									"CurrentValue": 9154,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 702,
+									"CurrentValue": 9484,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 794,
+									"CurrentValue": 11020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 751,
+									"CurrentValue": 10590,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 814,
+									"CurrentValue": 11220,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 764,
+									"CurrentValue": 10720,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 925,
+									"CurrentValue": 12946,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 833,
+									"CurrentValue": 11410,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 883,
+									"CurrentValue": 11910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 697,
+									"CurrentValue": 9434,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 771,
+									"CurrentValue": 10790,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 937,
+									"CurrentValue": 13066,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 965,
+									"CurrentValue": 13346,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 909,
+									"CurrentValue": 12786,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				},
+				{
+					"Key": [ -3, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -765, 195 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -767, 251 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -712, -11 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "MagnetiteCluster",
+								"Offset": [ -708, 197 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -728, 250 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -668, 45 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -669, 102 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "PyroplatiteCluster",
+								"Offset": [ -672, 142 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "PyriteCluster",
+								"Offset": [ -632, 58 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -626, 89 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -623, 154 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -624, 234 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "CinnabarCluster",
+								"Offset": [ -586, 137 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "RubyCluster",
+								"Offset": [ -576, 200 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "MalachiteCluster",
+								"Offset": [ -539, 58 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "CoalCluster",
+								"Offset": [ -529, 137 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "ThorianiteCluster",
+								"Offset": [ -535, 241 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 205,
+									"CurrentValue": 2050,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 245,
+									"CurrentValue": 2450,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 226,
+									"CurrentValue": 2260,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3814,
+									"CurrentValue": 38140,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 199,
+									"CurrentValue": 1990,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 220,
+									"CurrentValue": 2200,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 235,
+									"CurrentValue": 2350,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 230,
+									"CurrentValue": 2300,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 218,
+									"CurrentValue": 2180,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 202,
+									"CurrentValue": 2020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 197,
+									"CurrentValue": 1970,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 246,
+									"CurrentValue": 2460,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 204,
+									"CurrentValue": 2040,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 191,
+									"CurrentValue": 1910,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 224,
+									"CurrentValue": 2240,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"Data": [
+								{
+									"InitialCapacity": 7,
+									"CurrentValue": 70,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 53,
+									"CurrentValue": 530,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 894,
+									"CurrentValue": 12020,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 295,
+									"CurrentValue": 3566,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 932,
+									"CurrentValue": 13016,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 996,
+									"CurrentValue": 13656,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 829,
+									"CurrentValue": 11370,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 760,
+									"CurrentValue": 10680,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 912,
+									"CurrentValue": 12816,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 928,
+									"CurrentValue": 12976,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 991,
+									"CurrentValue": 13606,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 786,
+									"CurrentValue": 10940,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 820,
+									"CurrentValue": 11280,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 1729,
+									"CurrentValue": 24066,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 3562,
+									"CurrentValue": 49788,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 958,
+									"CurrentValue": 13276,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "log"
+						}
+					}
+				}
+			]
+		}
+	}
+}

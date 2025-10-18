@@ -1,0 +1,24 @@
+{
+	"GameSessionData":
+	{
+		"Seed": "1557591424",
+		"Generator": "WorldGeneratorRivers",
+		"TotalGameTime": 92203.990813229233,
+		"TotalGameTicks": 1836650,
+		"CreativeMode": false,
+		"InfiniteOre": false,
+		"CreativeAllowed": true,
+		"Mods": [
+			"Core 0.20.1",
+			"Vanilla 0.20.1",
+			"VanillaLib 0.20.1",
+			"VanillaTips 0.20.1"
+		],
+		"Version": "0.20.1-81-g4d2381a45",
+		"Cloud": false,
+		"AllResearchCompleted": false,
+		"SaveName": "gaghj",
+		"WorldTimeOfDayHours": 12.173292583228177,
+		"WorldTimeAutoAdvance": true
+	}
+}
