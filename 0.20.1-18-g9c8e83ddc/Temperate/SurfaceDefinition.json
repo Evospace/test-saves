@@ -1,0 +1,5669 @@
+{
+	"SurfaceDefinition":
+	{
+		"GeneratorName": "WorldGeneratorRivers",
+		"RegionMap":
+		{
+			"Known": [
+				{
+					"Key": [ -2, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -424, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -280, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -280, -472 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -328, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -328, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -328, -472 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -376, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -376, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -376, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -280, -280 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -136, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -184, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -40, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -40, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -88, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -88, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -40, -472 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -136, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -184, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -184, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -232, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -40, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -88, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -40, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -232, -280 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, -2 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ 104, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 152, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 104, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 152, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ 8, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ 200, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ 56, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ 152, -376 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ 200, -328 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 104, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 152, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 8, -424 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 56, -472 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 8, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 56, -280 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 56, -328 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, -2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, -2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -280, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -280, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -280, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -328, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -328, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -376, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -424, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -328, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -424, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -472, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -472, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -424, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -472, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -280, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -280, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -328, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyroplatiteOre",
+								"Prop": "",
+								"Offset": [ -328, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -376, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -376, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -376, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -376, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -424, -136 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 99970,
+								"Item": "ChalcopyriteOre",
+								"Prop": "",
+								"Offset": [ -40, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -40, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -184, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -40, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -184, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -232, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -88, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -184, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -88, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -40, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -232, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -232, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -136, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -184, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -88, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "",
+								"Offset": [ -136, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -40, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -88, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -184, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -136, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -232, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -232, -232 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 99996,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 8, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 104, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ 8, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 152, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 152, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ 200, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ 200, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ 200, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "",
+								"Offset": [ 8, -40 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 56, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 56, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 104, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 8, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ 56, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ 8, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ 104, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ 152, -88 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, -1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, -1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "ThorianiteOre",
+								"Prop": "",
+								"Offset": [ -280, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -280, 56 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -424, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -472, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -328, 8 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "",
+								"Prop": "",
+								"Offset": [ -40, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -88, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -136, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 99984,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ -184, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CinnabarOre",
+								"Prop": "",
+								"Offset": [ -232, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MagnetiteOre",
+								"Prop": "",
+								"Offset": [ -88, 56 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, 0 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 99981,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ 8, 8 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "RubyOre",
+								"Prop": "",
+								"Offset": [ 152, 8 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 0 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 0 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 1 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -2, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -1, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 0, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 1, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ 2, 2 ],
+					"Value":
+					{
+						"Sources": [],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				},
+				{
+					"Key": [ -3, -1 ],
+					"Value":
+					{
+						"Sources": [
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "CoalOre",
+								"Prop": "",
+								"Offset": [ -520, -88 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "MalachiteOre",
+								"Prop": "",
+								"Offset": [ -520, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -520, -232 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -568, -136 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "PyriteOre",
+								"Prop": "",
+								"Offset": [ -568, -184 ],
+								"InfiniteOre": false
+							},
+							{
+								"InitialCapacity": 10000,
+								"CurrentOre": 100000,
+								"Item": "BauxiteOre",
+								"Prop": "",
+								"Offset": [ -520, -40 ],
+								"InfiniteOre": false
+							}
+						],
+						"MapStructures": [],
+						"OilLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "RawOil"
+						},
+						"FertileLayer":
+						{
+							"InitialCapacity": [
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								},
+								{
+									"InitialCapacity": 10000,
+									"ExtractedCount": 0,
+									"RegenBoost": 0
+								}
+							],
+							"Item": "Log"
+						}
+					}
+				}
+			]
+		}
+	}
+}

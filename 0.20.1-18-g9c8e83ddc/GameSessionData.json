@@ -1,0 +1,22 @@
+{
+	"GameSessionData":
+	{
+		"Seed": "106086968",
+		"Generator": "WorldGeneratorRivers",
+		"TotalGameTime": 146326.45502535626,
+		"TotalGameTicks": 2941210,
+		"CreativeMode": false,
+		"InfiniteOre": false,
+		"CreativeAllowed": false,
+		"Mods": [
+			"Core 0.20.1",
+			"Vanilla 0.20.1",
+			"VanillaTips 0.20.1",
+			"VanillaLib 0.20.1"
+		],
+		"Version": "0.20.1-18-g9c8e83ddc",
+		"Cloud": false,
+		"AllResearchCompleted": false,
+		"SaveName": "0201-11"
+	}
+}
